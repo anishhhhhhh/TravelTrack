@@ -43,3 +43,21 @@ MongoDB
 
 PS: The Heroku server doesn't store the images on the server that's why the user profile pic and the places pic aren't showing up. To solve this issue I would have to connect the heroku server with something like static file storage for eg. AWS S3 bucket, but my free tier AWS subscription is terminated :-(</br>
 Another Issue is that the "View On Map" functionality isn't working anymore because my Google API key has been taken down! I'm finding alternatives to solve the issue for the time being please bare with it :-) 
+
+# Screenshots
+
+<p align="center">Home Page</p>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(163).png"/>
+<p align="center">User Can Signin or Signup</p>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(165).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(166).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(167).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(168).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(169).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(170).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(171).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(172).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(173).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(174).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(175).png"/>
+<img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(176).png"/>
