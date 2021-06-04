@@ -23,6 +23,8 @@ A web application to track the places which the users have visited.
 <ul>
   <li>CRUD operation of places</li>
   <li>JWT Authentication</li>
+  <li>Custom middleware to check if token is valid or not</li>
+  <li>Authenticated routes on the backend</li>
   <li>Google Maps</li>
 </ul>
 
