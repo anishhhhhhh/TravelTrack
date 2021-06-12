@@ -16,7 +16,9 @@
 
 
 Visit the website over [here](https://places-mernn.herokuapp.com/)<br/>
-A web application to track the places which the users have visited.
+A web application to track the places which the users have visited.<br/>
+Dummy Username: test1@test.com<br/>
+Dummy Password: test123
 
 ## Functionalities
 
@@ -48,16 +50,20 @@ Another Issue is that the "View On Map" functionality isn't working anymore beca
 
 # Screenshots
 
-<p align="center">Home Page</p>
+<h2 align="center">Home Page</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(163).png"/>
-<p align="center">User Can Signin or Signup</p>
+<h2 align="center">User Can Signin or Signup</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(165).png"/>
+<h2 align="center">User Page After Authentication</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(166).png"/>
+<h2 align="center">Authenticated User Places</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(167).png"/>
+<h2 align="center">User Can Add Place</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(168).png"/>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(169).png"/>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(170).png"/>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(171).png"/>
+<h2 align="center">User Can Edit or Delete Place</h2>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(172).png"/>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(173).png"/>
 <img src="https://github.com/anishhhhhhh/USERS-PLACES/blob/main/scrennshots/Screenshot%20(174).png"/>
