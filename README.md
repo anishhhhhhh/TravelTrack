@@ -25,6 +25,7 @@ Dummy Password: test123
 <ul>
   <li>CRUD operation of places</li>
   <li>JWT Authentication</li>
+  <li>Automatic Login and Logout Behavior</li>
   <li>Custom middleware to check if token is valid or not</li>
   <li>Authenticated routes on the backend</li>
   <li>Google Maps</li>
@@ -36,7 +37,7 @@ Dummy Password: test123
 #### React: 
 hooks used : useState, useEffect, useContext, useReducer, useCallback, and custom hooks.
 <br/>
-Authentication is handled by JWT Authentication. Users can be auto logged-in and are auto logged out after 1 hr ie. when token is expired. 
+Authentication is handled by JWT Authentication. Users can be auto logged-in inside 1 hour and are auto logged out after 1 hour ie. when token is expired. 
 
 ### `Backend` 
 Node, Express<br/>
