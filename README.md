@@ -46,7 +46,7 @@ Backend Routes are protected too ie. A middleware is added to check if the token
 ### `Database` 
 MongoDB
 
-PS: The Heroku server doesn't store the images on the server that's why the user profile pic and the places pic aren't showing up. To solve this issue I would have to connect the heroku server with something like static file storage for eg. AWS S3 bucket, but my free tier AWS subscription is terminated :-(</br>
+<h4>NOTE:</h4> The Heroku server doesn't store the images on the server that's why the user profile pic and the places pic aren't showing up. To solve this issue I would have to connect the heroku server with something like static file storage for eg. AWS S3 bucket, but my free tier AWS subscription is terminated :-(</br>
 Another Issue is that the "View On Map" functionality isn't working anymore because my Google API key has been taken down! I'm finding alternatives to solve the issue for the time being please bare with it :-) 
 
 # Screenshots
